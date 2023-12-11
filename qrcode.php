@@ -153,7 +153,7 @@
       </div>
     </section><!-- End Clients Section -->
 
-    <!-- ======= About Section ======= -->
+    <!-- ======= QR GENERATING Section ======= -->
     <section id="about" class="about">
       <div class="container">
 
@@ -176,7 +176,7 @@
         </div>
 
       </div>
-    </section><!-- End About Section -->
+    </section><!-- End of QR GENERATING  Section -->
 
     <!-- ======= Counts Section ======= -->
 <!-- End Counts Section -->
